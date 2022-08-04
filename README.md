@@ -4,7 +4,7 @@ how to add super powers to the deployment process
 
 ## Give your Application Auto-Deploy Superpowers
 
-Project description goes here.
+![Diagram of CI/CD Pipeline we will be building.](pipeline.png)
 
 ## Built With
 
