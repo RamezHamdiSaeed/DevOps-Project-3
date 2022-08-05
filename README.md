@@ -1,6 +1,6 @@
 # Give your Application Auto-Deploy Superpowers
 
-![Diagram of CI/CD Pipeline we will be building.](udapeople-pipeline.png
+![Diagram of CI/CD Pipeline we will be building.](pipeline.png)
 
 ## Built With
 
