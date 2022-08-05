@@ -1,0 +1,14 @@
+[URL 1]:
+https://github.com/RamezHamdiSaeed/DevOps-Project-3
+
+[URL 2]:
+http://udapeople-72e9a2e.s3-website-us-east-1.amazonaws.com
+
+[URL 3]:
+http://d15ithgl382y5p.cloudfront.net
+
+[URL 4]:
+https://44.201.163.59:3030/api/status
+
+[URL 5]:
+http://ec2-44-202-51-166.compute-1.amazonaws.com:9090/
